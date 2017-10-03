@@ -1,0 +1,83 @@
+{
+	"collection":[
+		{
+			"category":"Men",
+			"catId":"A",
+			"items":{
+				"subcat":[
+					{
+						"subcatname":"Winter Wear",
+						"product":[
+							{
+								"id":1,
+								"name":"White Ralph",
+								"price":"1400",
+								"image":"resources/sweater1.jpg",
+								"title":"Winter Swetar buy now",
+								"description":"Buy One get One free"
+							},
+							{
+								"id":2,
+								"name":"White Ralph",
+								"price":"1400",
+								"image":"resources/sweater1.jpg",
+								"title":"Winter Swetar buy now",
+								"description":"Buy One get One free"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"category":"Women",
+			"catId":"A",
+			"items":{
+				"subcat":[
+					{
+						"subcatname":"Winter Wear",
+						"product":[
+							{
+								"id":1,
+								"name":"White Ralph",
+								"price":"1400",
+								"image":"resources/sweater1.jpg",
+								"title":"Winter Swetar buy now",
+								"description":"Buy One get One free"
+							},
+							{
+								"id":2,
+								"name":"White Ralph",
+								"price":"1400",
+								"image":"resources/sweater1.jpg",
+								"title":"Winter Swetar buy now",
+								"description":"Buy One get One free"
+							}
+						]
+					},
+					{
+						"subcatname":"Summer Wear",
+						"product":[
+							{
+								"id":1,
+								"name":"White Ralph",
+								"price":"1400",
+								"image":"resources/sweater1.jpg",
+								"title":"Winter Swetar buy now",
+								"description":"Buy One get One free"
+							},
+							{
+								"id":2,
+								"name":"White Ralph",
+								"price":"1400",
+								"image":"resources/sweater1.jpg",
+								"title":"Winter Swetar buy now",
+								"description":"Buy One get One free"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}
